@@ -1,1 +1,1 @@
-A social media app like instagram where users can connect with each other and share posts.
+A social midea app like website where users can connect with each other and share posts.
